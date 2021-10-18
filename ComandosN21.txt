@@ -1,0 +1,28 @@
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i1_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\1.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i2_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\2.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i3_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\3.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i4_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\4.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i5_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\5.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i6_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\6.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i7_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\7.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i8_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\8.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i9_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\9.txt
+Prueba.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i10_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21\10.txt
+
+
+
+
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i1_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\1.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i2_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\2.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i3_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\3.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i4_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\4.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i5_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\5.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i6_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\6.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i7_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\7.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i8_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\8.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i9_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\9.txt
+Prueba-ORI.exe C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i10_u1.0_P1_V2.pddl 10 0 0 33 500 2 > C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\"Prueba - resguardo"\SalidaConsola\N21-ORI\10.txt
+
+
+
+

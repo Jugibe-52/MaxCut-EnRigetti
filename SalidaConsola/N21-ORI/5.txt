@@ -1,0 +1,923 @@
+fichero: C:\Users\PILAR\Documents\TFM_aepia\problemas\N21\Problems\problem_n21_i5_u1.0_P1_V2.pddl
+numPruebas: 10
+tiempoLimite: 0
+iterLimite: 0
+randomSeed: 33
+poblacion: 500
+iteraciones: 2
+
+
+Lista de QBits segun su fuerza de conexion: 
+1 : El QBit 10 tiene fuerza 8
+2 : El QBit 14 tiene fuerza 7
+3 : El QBit 11 tiene fuerza 7
+4 : El QBit 9 tiene fuerza 7
+5 : El QBit 6 tiene fuerza 7
+6 : El QBit 18 tiene fuerza 6
+7 : El QBit 12 tiene fuerza 6
+8 : El QBit 8 tiene fuerza 6
+9 : El QBit 2 tiene fuerza 6
+10 : El QBit 19 tiene fuerza 5
+11 : El QBit 17 tiene fuerza 5
+12 : El QBit 15 tiene fuerza 5
+13 : El QBit 13 tiene fuerza 5
+14 : El QBit 7 tiene fuerza 5
+15 : El QBit 5 tiene fuerza 5
+16 : El QBit 3 tiene fuerza 5
+17 : El QBit 1 tiene fuerza 5
+18 : El QBit 20 tiene fuerza 4
+19 : El QBit 16 tiene fuerza 4
+20 : El QBit 4 tiene fuerza 4
+21 : El QBit 0 tiene fuerza 4
+
+Orden Seleccion QStates:
+0: 17
+1: 13
+2: 2
+3: 16
+4: 10
+5: 9
+6: 5
+7: 18
+8: 15
+9: 14
+10: 11
+11: 8
+12: 6
+13: 21
+14: 20
+15: 19
+16: 7
+17: 3
+18: 12
+19: 4
+20: 1
+
+Comenzamos la inicializacion de los QStates:
+
+Insertamos el QState 17 en el QBit 11
+
+INICIALIZACION DEL QState: 13
+
+No se han insertado Vecinos logicos para el QState 13
+Insertamos el QState 13 en el QBit 15
+
+
+INICIALIZACION DEL QState: 2
+
+Los vecinos logicos del QState 2 son:
+El QState 13 en el QBit 15
+El QState 17 en el QBit 11
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 12 es 2.33333
+Actualizamos QBit.
+La heuristica del QBit 10 es 2.33333
+La heuristica del QBit 7 es 2.33333
+La heuristica del QBit 19 es 2
+La heuristica del QBit 13 es 1.2
+La heuristica del QBit 9 es 1.2
+La heuristica del QBit 3 es 1.2
+La heuristica del QBit 20 es 1
+La heuristica del QBit 18 es 1
+La heuristica del QBit 16 es 0.714286
+La heuristica del QBit 14 es 0.714286
+La heuristica del QBit 8 es 0.714286
+La heuristica del QBit 6 es 0.714286
+La heuristica del QBit 4 es 0.714286
+La heuristica del QBit 2 es 0.714286
+La heuristica del QBit 21 es 0.571429
+La heuristica del QBit 17 es 0.571429
+La heuristica del QBit 5 es 0.444444
+La heuristica del QBit 1 es 0.444444
+Insertamos el QState 2 en el QBit 12
+
+INICIALIZACION DEL QState: 16
+
+Los vecinos logicos del QState 16 son:
+El QState 17 en el QBit 11
+El QState 13 en el QBit 15
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 10 es 2.33333
+Actualizamos QBit.
+La heuristica del QBit 7 es 2.33333
+La heuristica del QBit 19 es 2
+La heuristica del QBit 13 es 1.2
+La heuristica del QBit 9 es 1.2
+La heuristica del QBit 3 es 1.2
+La heuristica del QBit 20 es 1
+La heuristica del QBit 18 es 1
+La heuristica del QBit 16 es 0.714286
+La heuristica del QBit 14 es 0.714286
+La heuristica del QBit 8 es 0.714286
+La heuristica del QBit 6 es 0.714286
+La heuristica del QBit 4 es 0.714286
+La heuristica del QBit 2 es 0.714286
+La heuristica del QBit 21 es 0.571429
+La heuristica del QBit 17 es 0.571429
+La heuristica del QBit 5 es 0.444444
+La heuristica del QBit 1 es 0.444444
+Insertamos el QState 16 en el QBit 10
+
+INICIALIZACION DEL QState: 10
+
+Los vecinos logicos del QState 10 son:
+El QState 2 en el QBit 12
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 7 es 3.5
+Actualizamos QBit.
+La heuristica del QBit 19 es 2
+La heuristica del QBit 13 es 6
+Actualizamos QBit.
+La heuristica del QBit 9 es 2
+La heuristica del QBit 3 es 2
+La heuristica del QBit 20 es 1.25
+La heuristica del QBit 18 es 1.25
+La heuristica del QBit 16 es 2.5
+La heuristica del QBit 14 es 1.25
+La heuristica del QBit 8 es 2.5
+La heuristica del QBit 6 es 1.25
+La heuristica del QBit 4 es 1.25
+La heuristica del QBit 2 es 1.25
+La heuristica del QBit 21 es 1.33333
+La heuristica del QBit 17 es 0.8
+La heuristica del QBit 5 es 1.33333
+La heuristica del QBit 1 es 0.8
+Insertamos el QState 10 en el QBit 13
+
+INICIALIZACION DEL QState: 9
+
+Los vecinos logicos del QState 9 son:
+El QState 10 en el QBit 13
+El QState 17 en el QBit 11
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 7 es 1.75
+Actualizamos QBit.
+La heuristica del QBit 19 es 1
+La heuristica del QBit 9 es 1
+La heuristica del QBit 3 es 1
+La heuristica del QBit 20 es 0.833333
+La heuristica del QBit 18 es 0.625
+La heuristica del QBit 16 es 1.25
+La heuristica del QBit 14 es 0.625
+La heuristica del QBit 8 es 1.25
+La heuristica del QBit 6 es 0.625
+La heuristica del QBit 4 es 0.833333
+La heuristica del QBit 2 es 0.625
+La heuristica del QBit 21 es 0.666667
+La heuristica del QBit 17 es 0.4
+La heuristica del QBit 5 es 0.666667
+La heuristica del QBit 1 es 0.4
+Insertamos el QState 9 en el QBit 7
+
+INICIALIZACION DEL QState: 5
+
+Los vecinos logicos del QState 5 son:
+El QState 2 en el QBit 12
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 19 es 2
+Actualizamos QBit.
+La heuristica del QBit 9 es 2
+La heuristica del QBit 3 es 2
+La heuristica del QBit 20 es 1.25
+La heuristica del QBit 18 es 1.25
+La heuristica del QBit 16 es 2.5
+Actualizamos QBit.
+La heuristica del QBit 14 es 1.25
+La heuristica del QBit 8 es 2.5
+La heuristica del QBit 6 es 1.25
+La heuristica del QBit 4 es 1.25
+La heuristica del QBit 2 es 1.25
+La heuristica del QBit 21 es 1.33333
+La heuristica del QBit 17 es 0.8
+La heuristica del QBit 5 es 1.33333
+La heuristica del QBit 1 es 0.8
+Insertamos el QState 5 en el QBit 16
+
+INICIALIZACION DEL QState: 18
+
+Los vecinos logicos del QState 18 son:
+El QState 17 en el QBit 11
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 19 es 3
+Actualizamos QBit.
+La heuristica del QBit 9 es 3
+La heuristica del QBit 3 es 3
+La heuristica del QBit 20 es 1.66667
+La heuristica del QBit 18 es 1.66667
+La heuristica del QBit 14 es 1.66667
+La heuristica del QBit 8 es 1.66667
+La heuristica del QBit 6 es 1.66667
+La heuristica del QBit 4 es 1.66667
+La heuristica del QBit 2 es 1.66667
+La heuristica del QBit 21 es 1
+La heuristica del QBit 17 es 1
+La heuristica del QBit 5 es 1
+La heuristica del QBit 1 es 1
+Insertamos el QState 18 en el QBit 19
+
+INICIALIZACION DEL QState: 15
+
+No se han insertado Vecinos logicos para el QState 15
+Insertamos el QState 15 en el QBit 9
+
+
+INICIALIZACION DEL QState: 14
+
+Los vecinos logicos del QState 14 son:
+El QState 15 en el QBit 9
+El QState 5 en el QBit 16
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 3 es 0.666667
+Actualizamos QBit.
+La heuristica del QBit 20 es 0.714286
+Actualizamos QBit.
+La heuristica del QBit 18 es 0.714286
+La heuristica del QBit 14 es 0.714286
+La heuristica del QBit 8 es 0.714286
+La heuristica del QBit 6 es 0.714286
+La heuristica del QBit 4 es 0.555556
+La heuristica del QBit 2 es 0.555556
+La heuristica del QBit 21 es 0.571429
+La heuristica del QBit 17 es 0.571429
+La heuristica del QBit 5 es 0.444444
+La heuristica del QBit 1 es 0.444444
+Insertamos el QState 14 en el QBit 20
+
+INICIALIZACION DEL QState: 11
+
+Los vecinos logicos del QState 11 son:
+El QState 17 en el QBit 11
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 3 es 3
+Actualizamos QBit.
+La heuristica del QBit 18 es 1.66667
+La heuristica del QBit 14 es 1.66667
+La heuristica del QBit 8 es 1.66667
+La heuristica del QBit 6 es 1.66667
+La heuristica del QBit 4 es 1.66667
+La heuristica del QBit 2 es 1.66667
+La heuristica del QBit 21 es 1
+La heuristica del QBit 17 es 1
+La heuristica del QBit 5 es 1
+La heuristica del QBit 1 es 1
+Insertamos el QState 11 en el QBit 3
+
+INICIALIZACION DEL QState: 8
+
+Los vecinos logicos del QState 8 son:
+El QState 5 en el QBit 16
+El QState 11 en el QBit 3
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 18 es 0.555556
+Actualizamos QBit.
+La heuristica del QBit 14 es 0.454545
+La heuristica del QBit 8 es 1
+Actualizamos QBit.
+La heuristica del QBit 6 es 0.555556
+La heuristica del QBit 4 es 1
+La heuristica del QBit 2 es 0.714286
+La heuristica del QBit 21 es 0.571429
+La heuristica del QBit 17 es 0.363636
+La heuristica del QBit 5 es 0.8
+La heuristica del QBit 1 es 0.444444
+Insertamos el QState 8 en el QBit 8
+
+INICIALIZACION DEL QState: 6
+
+Los vecinos logicos del QState 6 son:
+El QState 9 en el QBit 7
+El QState 13 en el QBit 15
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 18 es 0.833333
+Actualizamos QBit.
+La heuristica del QBit 14 es 0.625
+La heuristica del QBit 6 es 0.625
+La heuristica del QBit 4 es 0.833333
+La heuristica del QBit 2 es 0.833333
+La heuristica del QBit 21 es 0.5
+La heuristica del QBit 17 es 0.5
+La heuristica del QBit 5 es 0.5
+La heuristica del QBit 1 es 0.5
+Insertamos el QState 6 en el QBit 18
+
+INICIALIZACION DEL QState: 21
+
+Los vecinos logicos del QState 21 son:
+El QState 16 en el QBit 10
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 14 es 2.5
+Actualizamos QBit.
+La heuristica del QBit 6 es 2.5
+La heuristica del QBit 4 es 1.25
+La heuristica del QBit 2 es 1.25
+La heuristica del QBit 21 es 0.8
+La heuristica del QBit 17 es 1.33333
+La heuristica del QBit 5 es 0.8
+La heuristica del QBit 1 es 1.33333
+Insertamos el QState 21 en el QBit 14
+
+INICIALIZACION DEL QState: 20
+
+Los vecinos logicos del QState 20 son:
+El QState 15 en el QBit 9
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 6 es 5
+Actualizamos QBit.
+La heuristica del QBit 4 es 1
+La heuristica del QBit 2 es 1.66667
+La heuristica del QBit 21 es 0.666667
+La heuristica del QBit 17 es 2
+La heuristica del QBit 5 es 0.666667
+La heuristica del QBit 1 es 2
+Insertamos el QState 20 en el QBit 6
+
+INICIALIZACION DEL QState: 19
+
+Los vecinos logicos del QState 19 son:
+El QState 13 en el QBit 15
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 4 es 1.25
+Actualizamos QBit.
+La heuristica del QBit 2 es 1.25
+La heuristica del QBit 21 es 1.33333
+Actualizamos QBit.
+La heuristica del QBit 17 es 1.33333
+La heuristica del QBit 5 es 0.8
+La heuristica del QBit 1 es 0.8
+Insertamos el QState 19 en el QBit 21
+
+INICIALIZACION DEL QState: 7
+
+Los vecinos logicos del QState 7 son:
+El QState 10 en el QBit 13
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 4 es 1.66667
+Actualizamos QBit.
+La heuristica del QBit 2 es 1
+La heuristica del QBit 17 es 0.666667
+La heuristica del QBit 5 es 2
+Actualizamos QBit.
+La heuristica del QBit 1 es 0.666667
+Insertamos el QState 7 en el QBit 5
+
+INICIALIZACION DEL QState: 3
+
+Los vecinos logicos del QState 3 son:
+El QState 18 en el QBit 19
+
+Calculamos las heuristicas para los QBits libres:
+La heuristica del QBit 4 es 1
+Actualizamos QBit.
+La heuristica del QBit 2 es 1
+La heuristica del QBit 17 es 2
+Actualizamos QBit.
+La heuristica del QBit 1 es 0.666667
+Insertamos el QState 3 en el QBit 17
+
+INICIALIZACION DEL QState: 12
+
+No se han insertado Vecinos logicos para el QState 12
+Insertamos el QState 12 en el QBit 4
+
+
+INICIALIZACION DEL QState: 4
+
+No se han insertado Vecinos logicos para el QState 4
+Insertamos el QState 4 en el QBit 2
+
+
+INICIALIZACION DEL QState: 1
+
+No se han insertado Vecinos logicos para el QState 1
+Insertamos el QState 1 en el QBit 1
+
+
+Resumen Inicializaciones:
+Inicializamos el QState 17 en el QBit 11
+Inicializamos el QState 13 en el QBit 15
+Inicializamos el QState 2 en el QBit 12
+Inicializamos el QState 16 en el QBit 10
+Inicializamos el QState 10 en el QBit 13
+Inicializamos el QState 9 en el QBit 7
+Inicializamos el QState 5 en el QBit 16
+Inicializamos el QState 18 en el QBit 19
+Inicializamos el QState 15 en el QBit 9
+Inicializamos el QState 14 en el QBit 20
+Inicializamos el QState 11 en el QBit 3
+Inicializamos el QState 8 en el QBit 8
+Inicializamos el QState 6 en el QBit 18
+Inicializamos el QState 21 en el QBit 14
+Inicializamos el QState 20 en el QBit 6
+Inicializamos el QState 19 en el QBit 21
+Inicializamos el QState 7 en el QBit 5
+Inicializamos el QState 3 en el QBit 17
+Inicializamos el QState 12 en el QBit 4
+Inicializamos el QState 4 en el QBit 2
+Inicializamos el QState 1 en el QBit 1
+
+Mejor Makespan Total Todas Pruebas: 47 
+Numero Mejor Makespanes Totales Todas Pruebas: 1 
+Media Makespan Total Todas Pruebas: 51.4 
+Mediana: 49 
+Ejecucione en la mediana: 2 
+Peor Makespan Total Todas Pruebas: 56 
+Numero Peores Makespanes Totales Todas Pruebas: 1 
+Desviacion Estandar Total Todas Pruebas: 2.83627 
+Tiempo Total Todas Pruebas: 391 
+
+Makespan 1: 41
+swap q1: 10 q2: 1 qb1: 6 qb2: 1 init: 6  time: 2; 
+swap q1: 9 q2: 1 qb1: 9 qb2: 6 init: 10  time: 2; 
+swap q1: 6 q2: 1 qb1: 10 qb2: 9 init: 12  time: 2; 
+swap q1: 18 q2: 1 qb1: 9 qb2: 10 init: 23  time: 2; 
+swap q1: 9 q2: 1 qb1: 14 qb2: 9 init: 27  time: 2; 
+swap q1: 14 q2: 1 qb1: 9 qb2: 14 init: 37  time: 2; 
+swap q1: 9 q2: 1 qb1: 10 qb2: 9 init: 39  time: 2; 
+
+Makespan 2: 47
+swap q1: 2 q2: 3 qb1: 2 qb2: 3 init: 0  time: 2; 
+p-s q1: 2 q2: 5 qb1: 3 qb2: 4 init: 2  time: 4; 
+swap q1: 2 q2: 3 qb1: 3 qb2: 2 init: 6  time: 2; 
+p-s q1: 2 q2: 10 qb1: 2 qb2: 1 init: 8  time: 3; 
+swap q1: 2 q2: 3 qb1: 2 qb2: 3 init: 11  time: 2; 
+swap q1: 2 q2: 7 qb1: 3 qb2: 7 init: 13  time: 2; 
+p-s q1: 2 q2: 13 qb1: 7 qb2: 11 init: 15  time: 3; 
+p-s q1: 2 q2: 17 qb1: 7 qb2: 11 init: 23  time: 3; 
+mix q1: 2 q2: 0 qb1: 7 qb2: 7 init: 26  time: 1; 
+p-s q1: 2 q2: 17 qb1: 7 qb2: 11 init: 27  time: 3; 
+p-s q1: 2 q2: 10 qb1: 7 qb2: 3 init: 30  time: 4; 
+p-s q1: 2 q2: 5 qb1: 7 qb2: 3 init: 36  time: 4; 
+swap q1: 2 q2: 11 qb1: 7 qb2: 11 init: 41  time: 2; 
+p-s q1: 2 q2: 13 qb1: 11 qb2: 15 init: 43  time: 3; 
+mix q1: 2 q2: 0 qb1: 11 qb2: 11 init: 46  time: 1; 
+
+Makespan 3: 43
+swap q1: 2 q2: 3 qb1: 2 qb2: 3 init: 0  time: 2; 
+swap q1: 2 q2: 3 qb1: 3 qb2: 2 init: 6  time: 2; 
+swap q1: 2 q2: 3 qb1: 2 qb2: 3 init: 11  time: 2; 
+swap q1: 3 q2: 10 qb1: 2 qb2: 1 init: 15  time: 2; 
+p-s q1: 3 q2: 18 qb1: 1 qb2: 6 init: 18  time: 3; 
+swap q1: 5 q2: 3 qb1: 2 qb2: 1 init: 21  time: 2; 
+mix q1: 3 q2: 0 qb1: 2 qb2: 2 init: 23  time: 1; 
+swap q1: 5 q2: 3 qb1: 1 qb2: 2 init: 30  time: 2; 
+p-s q1: 3 q2: 18 qb1: 1 qb2: 6 init: 37  time: 3; 
+swap q1: 10 q2: 3 qb1: 2 qb2: 1 init: 40  time: 2; 
+mix q1: 3 q2: 0 qb1: 2 qb2: 2 init: 42  time: 1; 
+
+Makespan 4: 42
+swap q1: 5 q2: 4 qb1: 5 qb2: 4 init: 0  time: 2; 
+swap q1: 8 q2: 4 qb1: 8 qb2: 5 init: 2  time: 2; 
+swap q1: 8 q2: 4 qb1: 5 qb2: 8 init: 9  time: 2; 
+swap q1: 7 q2: 4 qb1: 4 qb2: 5 init: 17  time: 2; 
+swap q1: 10 q2: 4 qb1: 3 qb2: 4 init: 19  time: 2; 
+swap q1: 10 q2: 4 qb1: 4 qb2: 3 init: 28  time: 2; 
+swap q1: 5 q2: 4 qb1: 3 qb2: 4 init: 40  time: 2; 
+
+Makespan 5: 46
+swap q1: 5 q2: 4 qb1: 5 qb2: 4 init: 0  time: 2; 
+p-s q1: 2 q2: 5 qb1: 3 qb2: 4 init: 2  time: 4; 
+p-s q1: 5 q2: 8 qb1: 4 qb2: 5 init: 6  time: 3; 
+swap q1: 5 q2: 7 qb1: 4 qb2: 3 init: 15  time: 2; 
+swap q1: 5 q2: 10 qb1: 3 qb2: 2 init: 17  time: 2; 
+swap q1: 5 q2: 3 qb1: 2 qb2: 1 init: 21  time: 2; 
+p-s q1: 5 q2: 14 qb1: 1 qb2: 6 init: 23  time: 3; 
+mix q1: 5 q2: 0 qb1: 1 qb2: 1 init: 26  time: 1; 
+p-s q1: 5 q2: 14 qb1: 1 qb2: 6 init: 27  time: 3; 
+swap q1: 5 q2: 3 qb1: 1 qb2: 2 init: 30  time: 2; 
+swap q1: 5 q2: 10 qb1: 2 qb2: 3 init: 34  time: 2; 
+p-s q1: 2 q2: 5 qb1: 7 qb2: 3 init: 36  time: 4; 
+swap q1: 5 q2: 4 qb1: 3 qb2: 4 init: 40  time: 2; 
+p-s q1: 5 q2: 8 qb1: 4 qb2: 5 init: 42  time: 3; 
+mix q1: 5 q2: 0 qb1: 4 qb2: 4 init: 45  time: 1; 
+
+Makespan 6: 41
+swap q1: 10 q2: 6 qb1: 9 qb2: 6 init: 4  time: 2; 
+swap q1: 6 q2: 14 qb1: 9 qb2: 10 init: 6  time: 2; 
+p-s q1: 6 q2: 13 qb1: 10 qb2: 11 init: 8  time: 3; 
+swap q1: 6 q2: 1 qb1: 10 qb2: 9 init: 12  time: 2; 
+swap q1: 6 q2: 18 qb1: 9 qb2: 14 init: 14  time: 2; 
+swap q1: 6 q2: 14 qb1: 14 qb2: 17 init: 16  time: 2; 
+p-s q1: 6 q2: 9 qb1: 17 qb2: 14 init: 20  time: 3; 
+mix q1: 6 q2: 0 qb1: 17 qb2: 17 init: 23  time: 1; 
+p-s q1: 6 q2: 9 qb1: 17 qb2: 14 init: 24  time: 3; 
+swap q1: 15 q2: 6 qb1: 18 qb2: 17 init: 27  time: 2; 
+p-s q1: 6 q2: 13 qb1: 18 qb2: 19 init: 36  time: 4; 
+mix q1: 6 q2: 0 qb1: 18 qb2: 18 init: 40  time: 1; 
+
+Makespan 7: 38
+swap q1: 2 q2: 7 qb1: 3 qb2: 7 init: 13  time: 2; 
+swap q1: 5 q2: 7 qb1: 4 qb2: 3 init: 15  time: 2; 
+swap q1: 7 q2: 4 qb1: 4 qb2: 5 init: 17  time: 2; 
+p-s q1: 7 q2: 10 qb1: 5 qb2: 4 init: 21  time: 3; 
+mix q1: 7 q2: 0 qb1: 5 qb2: 5 init: 24  time: 1; 
+p-s q1: 7 q2: 10 qb1: 5 qb2: 4 init: 25  time: 3; 
+mix q1: 7 q2: 0 qb1: 5 qb2: 5 init: 28  time: 1; 
+swap q1: 8 q2: 7 qb1: 8 qb2: 5 init: 36  time: 2; 
+
+Makespan 8: 46
+swap q1: 8 q2: 4 qb1: 8 qb2: 5 init: 2  time: 2; 
+p-s q1: 5 q2: 8 qb1: 4 qb2: 5 init: 6  time: 3; 
+swap q1: 8 q2: 4 qb1: 5 qb2: 8 init: 9  time: 2; 
+p-s q1: 8 q2: 11 qb1: 8 qb2: 13 init: 11  time: 4; 
+mix q1: 8 q2: 0 qb1: 8 qb2: 8 init: 15  time: 1; 
+swap q1: 8 q2: 12 qb1: 8 qb2: 13 init: 17  time: 2; 
+swap q1: 8 q2: 21 qb1: 13 qb2: 16 init: 20  time: 2; 
+p-s q1: 8 q2: 11 qb1: 16 qb2: 13 init: 26  time: 4; 
+swap q1: 21 q2: 8 qb1: 13 qb2: 16 init: 32  time: 2; 
+swap q1: 8 q2: 12 qb1: 13 qb2: 8 init: 34  time: 2; 
+swap q1: 8 q2: 7 qb1: 8 qb2: 5 init: 36  time: 2; 
+p-s q1: 5 q2: 8 qb1: 4 qb2: 5 init: 42  time: 3; 
+mix q1: 8 q2: 0 qb1: 5 qb2: 5 init: 45  time: 1; 
+
+Makespan 9: 47
+swap q1: 9 q2: 14 qb1: 9 qb2: 14 init: 0  time: 2; 
+p-s q1: 9 q2: 17 qb1: 14 qb2: 17 init: 4  time: 3; 
+swap q1: 9 q2: 14 qb1: 14 qb2: 9 init: 8  time: 2; 
+swap q1: 9 q2: 1 qb1: 9 qb2: 6 init: 10  time: 2; 
+p-s q1: 9 q2: 10 qb1: 6 qb2: 1 init: 12  time: 3; 
+swap q1: 9 q2: 18 qb1: 6 qb2: 9 init: 16  time: 2; 
+swap q1: 9 q2: 14 qb1: 9 qb2: 14 init: 18  time: 2; 
+p-s q1: 6 q2: 9 qb1: 17 qb2: 14 init: 20  time: 3; 
+mix q1: 9 q2: 0 qb1: 14 qb2: 14 init: 23  time: 1; 
+p-s q1: 6 q2: 9 qb1: 17 qb2: 14 init: 24  time: 3; 
+swap q1: 9 q2: 1 qb1: 14 qb2: 9 init: 27  time: 2; 
+swap q1: 9 q2: 18 qb1: 9 qb2: 10 init: 33  time: 2; 
+p-s q1: 9 q2: 17 qb1: 10 qb2: 11 init: 36  time: 3; 
+swap q1: 9 q2: 1 qb1: 10 qb2: 9 init: 39  time: 2; 
+swap q1: 9 q2: 18 qb1: 9 qb2: 6 init: 41  time: 2; 
+p-s q1: 9 q2: 10 qb1: 6 qb2: 1 init: 43  time: 3; 
+mix q1: 9 q2: 0 qb1: 6 qb2: 6 init: 46  time: 1; 
+
+Makespan 10: 47
+swap q1: 10 q2: 14 qb1: 10 qb2: 9 init: 2  time: 2; 
+swap q1: 10 q2: 6 qb1: 9 qb2: 6 init: 4  time: 2; 
+swap q1: 10 q2: 1 qb1: 6 qb2: 1 init: 6  time: 2; 
+p-s q1: 2 q2: 10 qb1: 2 qb2: 1 init: 8  time: 3; 
+p-s q1: 9 q2: 10 qb1: 6 qb2: 1 init: 12  time: 3; 
+swap q1: 3 q2: 10 qb1: 2 qb2: 1 init: 15  time: 2; 
+swap q1: 5 q2: 10 qb1: 3 qb2: 2 init: 17  time: 2; 
+swap q1: 10 q2: 4 qb1: 3 qb2: 4 init: 19  time: 2; 
+p-s q1: 7 q2: 10 qb1: 5 qb2: 4 init: 21  time: 3; 
+mix q1: 10 q2: 0 qb1: 4 qb2: 4 init: 24  time: 1; 
+p-s q1: 7 q2: 10 qb1: 5 qb2: 4 init: 25  time: 3; 
+swap q1: 10 q2: 4 qb1: 4 qb2: 3 init: 28  time: 2; 
+p-s q1: 2 q2: 10 qb1: 7 qb2: 3 init: 30  time: 4; 
+swap q1: 5 q2: 10 qb1: 2 qb2: 3 init: 34  time: 2; 
+swap q1: 10 q2: 3 qb1: 2 qb2: 1 init: 40  time: 2; 
+p-s q1: 9 q2: 10 qb1: 6 qb2: 1 init: 43  time: 3; 
+mix q1: 10 q2: 0 qb1: 1 qb2: 1 init: 46  time: 1; 
+
+Makespan 11: 43
+swap q1: 13 q2: 11 qb1: 12 qb2: 11 init: 6  time: 2; 
+swap q1: 11 q2: 12 qb1: 12 qb2: 13 init: 8  time: 2; 
+p-s q1: 8 q2: 11 qb1: 8 qb2: 13 init: 11  time: 4; 
+swap q1: 11 q2: 12 qb1: 13 qb2: 12 init: 15  time: 2; 
+p-s q1: 11 q2: 17 qb1: 12 qb2: 11 init: 20  time: 3; 
+swap q1: 11 q2: 21 qb1: 12 qb2: 13 init: 23  time: 2; 
+mix q1: 11 q2: 0 qb1: 13 qb2: 13 init: 25  time: 1; 
+p-s q1: 8 q2: 11 qb1: 16 qb2: 13 init: 26  time: 4; 
+swap q1: 21 q2: 11 qb1: 12 qb2: 13 init: 30  time: 2; 
+p-s q1: 11 q2: 17 qb1: 12 qb2: 11 init: 33  time: 3; 
+mix q1: 11 q2: 0 qb1: 12 qb2: 12 init: 36  time: 1; 
+swap q1: 17 q2: 11 qb1: 11 qb2: 12 init: 39  time: 2; 
+swap q1: 2 q2: 11 qb1: 7 qb2: 11 init: 41  time: 2; 
+
+Makespan 12: 41
+swap q1: 13 q2: 12 qb1: 13 qb2: 12 init: 4  time: 2; 
+swap q1: 11 q2: 12 qb1: 12 qb2: 13 init: 8  time: 2; 
+swap q1: 11 q2: 12 qb1: 13 qb2: 12 init: 15  time: 2; 
+swap q1: 8 q2: 12 qb1: 8 qb2: 13 init: 17  time: 2; 
+swap q1: 8 q2: 12 qb1: 13 qb2: 8 init: 34  time: 2; 
+swap q1: 16 q2: 12 qb1: 16 qb2: 13 init: 39  time: 2; 
+
+Makespan 13: 47
+p-s q1: 13 q2: 16 qb1: 13 qb2: 16 init: 0  time: 4; 
+swap q1: 13 q2: 12 qb1: 13 qb2: 12 init: 4  time: 2; 
+swap q1: 13 q2: 11 qb1: 12 qb2: 11 init: 6  time: 2; 
+p-s q1: 6 q2: 13 qb1: 10 qb2: 11 init: 8  time: 3; 
+p-s q1: 13 q2: 19 qb1: 11 qb2: 15 init: 11  time: 3; 
+p-s q1: 2 q2: 13 qb1: 7 qb2: 11 init: 15  time: 3; 
+swap q1: 17 q2: 13 qb1: 15 qb2: 11 init: 18  time: 2; 
+mix q1: 13 q2: 0 qb1: 15 qb2: 15 init: 20  time: 1; 
+swap q1: 13 q2: 20 qb1: 15 qb2: 19 init: 23  time: 2; 
+swap q1: 13 q2: 19 qb1: 19 qb2: 20 init: 25  time: 2; 
+p-s q1: 13 q2: 16 qb1: 20 qb2: 21 init: 27  time: 3; 
+swap q1: 13 q2: 20 qb1: 20 qb2: 19 init: 30  time: 2; 
+p-s q1: 13 q2: 19 qb1: 19 qb2: 15 init: 32  time: 4; 
+p-s q1: 6 q2: 13 qb1: 18 qb2: 19 init: 36  time: 4; 
+swap q1: 13 q2: 19 qb1: 19 qb2: 15 init: 40  time: 2; 
+p-s q1: 2 q2: 13 qb1: 11 qb2: 15 init: 43  time: 3; 
+mix q1: 13 q2: 0 qb1: 15 qb2: 15 init: 46  time: 1; 
+
+Makespan 14: 43
+swap q1: 9 q2: 14 qb1: 9 qb2: 14 init: 0  time: 2; 
+swap q1: 10 q2: 14 qb1: 10 qb2: 9 init: 2  time: 2; 
+swap q1: 6 q2: 14 qb1: 9 qb2: 10 init: 6  time: 2; 
+swap q1: 9 q2: 14 qb1: 14 qb2: 9 init: 8  time: 2; 
+swap q1: 14 q2: 18 qb1: 14 qb2: 17 init: 10  time: 2; 
+p-s q1: 14 q2: 15 qb1: 17 qb2: 18 init: 12  time: 4; 
+swap q1: 6 q2: 14 qb1: 14 qb2: 17 init: 16  time: 2; 
+swap q1: 9 q2: 14 qb1: 9 qb2: 14 init: 18  time: 2; 
+swap q1: 14 q2: 18 qb1: 9 qb2: 6 init: 21  time: 2; 
+p-s q1: 5 q2: 14 qb1: 1 qb2: 6 init: 23  time: 3; 
+mix q1: 14 q2: 0 qb1: 6 qb2: 6 init: 26  time: 1; 
+p-s q1: 5 q2: 14 qb1: 1 qb2: 6 init: 27  time: 3; 
+swap q1: 14 q2: 18 qb1: 6 qb2: 9 init: 35  time: 2; 
+swap q1: 14 q2: 1 qb1: 9 qb2: 14 init: 37  time: 2; 
+p-s q1: 14 q2: 15 qb1: 14 qb2: 17 init: 39  time: 3; 
+mix q1: 14 q2: 0 qb1: 14 qb2: 14 init: 42  time: 1; 
+
+Makespan 15: 43
+swap q1: 15 q2: 19 qb1: 15 qb2: 19 init: 0  time: 2; 
+p-s q1: 15 q2: 20 qb1: 19 qb2: 20 init: 2  time: 4; 
+swap q1: 17 q2: 15 qb1: 18 qb2: 19 init: 9  time: 2; 
+p-s q1: 14 q2: 15 qb1: 17 qb2: 18 init: 12  time: 4; 
+mix q1: 15 q2: 0 qb1: 18 qb2: 18 init: 16  time: 1; 
+p-s q1: 15 q2: 20 qb1: 18 qb2: 19 init: 19  time: 4; 
+swap q1: 15 q2: 6 qb1: 18 qb2: 17 init: 27  time: 2; 
+p-s q1: 14 q2: 15 qb1: 14 qb2: 17 init: 39  time: 3; 
+mix q1: 15 q2: 0 qb1: 17 qb2: 17 init: 42  time: 1; 
+
+Makespan 16: 46
+p-s q1: 13 q2: 16 qb1: 13 qb2: 16 init: 0  time: 4; 
+swap q1: 16 q2: 21 qb1: 16 qb2: 21 init: 4  time: 2; 
+swap q1: 16 q2: 20 qb1: 21 qb2: 20 init: 6  time: 2; 
+p-s q1: 16 q2: 17 qb1: 20 qb2: 19 init: 11  time: 4; 
+swap q1: 16 q2: 20 qb1: 20 qb2: 21 init: 15  time: 2; 
+p-s q1: 16 q2: 21 qb1: 21 qb2: 16 init: 17  time: 3; 
+mix q1: 16 q2: 0 qb1: 21 qb2: 21 init: 20  time: 1; 
+p-s q1: 13 q2: 16 qb1: 20 qb2: 21 init: 27  time: 3; 
+p-s q1: 16 q2: 21 qb1: 21 qb2: 16 init: 34  time: 3; 
+swap q1: 16 q2: 21 qb1: 21 qb2: 16 init: 37  time: 2; 
+swap q1: 16 q2: 12 qb1: 16 qb2: 13 init: 39  time: 2; 
+p-s q1: 16 q2: 17 qb1: 13 qb2: 12 init: 41  time: 4; 
+mix q1: 16 q2: 0 qb1: 13 qb2: 13 init: 45  time: 1; 
+
+Makespan 17: 46
+p-s q1: 17 q2: 18 qb1: 17 qb2: 18 init: 0  time: 4; 
+p-s q1: 9 q2: 17 qb1: 14 qb2: 17 init: 4  time: 3; 
+swap q1: 17 q2: 18 qb1: 17 qb2: 18 init: 7  time: 2; 
+swap q1: 17 q2: 15 qb1: 18 qb2: 19 init: 9  time: 2; 
+p-s q1: 16 q2: 17 qb1: 20 qb2: 19 init: 11  time: 4; 
+swap q1: 17 q2: 19 qb1: 19 qb2: 15 init: 15  time: 2; 
+swap q1: 17 q2: 13 qb1: 15 qb2: 11 init: 18  time: 2; 
+p-s q1: 11 q2: 17 qb1: 12 qb2: 11 init: 20  time: 3; 
+p-s q1: 2 q2: 17 qb1: 7 qb2: 11 init: 23  time: 3; 
+mix q1: 17 q2: 0 qb1: 11 qb2: 11 init: 26  time: 1; 
+p-s q1: 2 q2: 17 qb1: 7 qb2: 11 init: 27  time: 3; 
+p-s q1: 17 q2: 18 qb1: 11 qb2: 10 init: 30  time: 3; 
+p-s q1: 11 q2: 17 qb1: 12 qb2: 11 init: 33  time: 3; 
+p-s q1: 9 q2: 17 qb1: 10 qb2: 11 init: 36  time: 3; 
+swap q1: 17 q2: 11 qb1: 11 qb2: 12 init: 39  time: 2; 
+p-s q1: 16 q2: 17 qb1: 13 qb2: 12 init: 41  time: 4; 
+mix q1: 17 q2: 0 qb1: 12 qb2: 12 init: 45  time: 1; 
+
+Makespan 18: 43
+p-s q1: 17 q2: 18 qb1: 17 qb2: 18 init: 0  time: 4; 
+swap q1: 17 q2: 18 qb1: 17 qb2: 18 init: 7  time: 2; 
+swap q1: 14 q2: 18 qb1: 14 qb2: 17 init: 10  time: 2; 
+swap q1: 6 q2: 18 qb1: 9 qb2: 14 init: 14  time: 2; 
+swap q1: 9 q2: 18 qb1: 6 qb2: 9 init: 16  time: 2; 
+p-s q1: 3 q2: 18 qb1: 1 qb2: 6 init: 18  time: 3; 
+swap q1: 14 q2: 18 qb1: 9 qb2: 6 init: 21  time: 2; 
+swap q1: 18 q2: 1 qb1: 9 qb2: 10 init: 23  time: 2; 
+mix q1: 18 q2: 0 qb1: 10 qb2: 10 init: 25  time: 1; 
+p-s q1: 17 q2: 18 qb1: 11 qb2: 10 init: 30  time: 3; 
+swap q1: 9 q2: 18 qb1: 9 qb2: 10 init: 33  time: 2; 
+swap q1: 14 q2: 18 qb1: 6 qb2: 9 init: 35  time: 2; 
+p-s q1: 3 q2: 18 qb1: 1 qb2: 6 init: 37  time: 3; 
+mix q1: 18 q2: 0 qb1: 6 qb2: 6 init: 40  time: 1; 
+swap q1: 9 q2: 18 qb1: 9 qb2: 6 init: 41  time: 2; 
+
+Makespan 19: 42
+swap q1: 15 q2: 19 qb1: 15 qb2: 19 init: 0  time: 2; 
+p-s q1: 13 q2: 19 qb1: 11 qb2: 15 init: 11  time: 3; 
+mix q1: 19 q2: 0 qb1: 15 qb2: 15 init: 14  time: 1; 
+swap q1: 17 q2: 19 qb1: 19 qb2: 15 init: 15  time: 2; 
+swap q1: 20 q2: 19 qb1: 20 qb2: 19 init: 17  time: 2; 
+swap q1: 13 q2: 19 qb1: 19 qb2: 20 init: 25  time: 2; 
+swap q1: 19 q2: 20 qb1: 19 qb2: 15 init: 27  time: 2; 
+p-s q1: 13 q2: 19 qb1: 19 qb2: 15 init: 32  time: 4; 
+mix q1: 19 q2: 0 qb1: 15 qb2: 15 init: 36  time: 1; 
+swap q1: 13 q2: 19 qb1: 19 qb2: 15 init: 40  time: 2; 
+
+Makespan 20: 32
+p-s q1: 15 q2: 20 qb1: 19 qb2: 20 init: 2  time: 4; 
+swap q1: 16 q2: 20 qb1: 21 qb2: 20 init: 6  time: 2; 
+mix q1: 20 q2: 0 qb1: 21 qb2: 21 init: 8  time: 1; 
+swap q1: 16 q2: 20 qb1: 20 qb2: 21 init: 15  time: 2; 
+swap q1: 20 q2: 19 qb1: 20 qb2: 19 init: 17  time: 2; 
+p-s q1: 15 q2: 20 qb1: 18 qb2: 19 init: 19  time: 4; 
+swap q1: 13 q2: 20 qb1: 15 qb2: 19 init: 23  time: 2; 
+mix q1: 20 q2: 0 qb1: 15 qb2: 15 init: 25  time: 1; 
+swap q1: 19 q2: 20 qb1: 19 qb2: 15 init: 27  time: 2; 
+swap q1: 13 q2: 20 qb1: 20 qb2: 19 init: 30  time: 2; 
+
+Makespan 21: 40
+swap q1: 16 q2: 21 qb1: 16 qb2: 21 init: 4  time: 2; 
+p-s q1: 16 q2: 21 qb1: 21 qb2: 16 init: 17  time: 3; 
+swap q1: 8 q2: 21 qb1: 13 qb2: 16 init: 20  time: 2; 
+mix q1: 21 q2: 0 qb1: 13 qb2: 13 init: 22  time: 1; 
+swap q1: 11 q2: 21 qb1: 12 qb2: 13 init: 23  time: 2; 
+swap q1: 21 q2: 11 qb1: 12 qb2: 13 init: 30  time: 2; 
+swap q1: 21 q2: 8 qb1: 13 qb2: 16 init: 32  time: 2; 
+p-s q1: 16 q2: 21 qb1: 21 qb2: 16 init: 34  time: 3; 
+swap q1: 16 q2: 21 qb1: 21 qb2: 16 init: 37  time: 2; 
+mix q1: 21 q2: 0 qb1: 21 qb2: 21 init: 39  time: 1; 
+
+
+
+id; type; qag1; qag2; qloc1; qloc2; st; et; just1; just2
+0;;0;0;1;0;0;0;0;-1
+0;;1;0;10;0;0;0;1;-1
+0;;2;0;8;0;0;0;2;-1
+0;;3;0;7;0;0;0;3;-1
+0;;4;0;2;0;0;0;4;-1
+0;;5;0;17;0;0;0;5;-1
+0;;6;0;4;0;0;0;6;-1
+0;;7;0;3;0;0;0;7;-1
+0;;8;0;5;0;0;0;8;-1
+0;;9;0;0;0;0;0;9;-1
+0;;10;0;12;0;0;0;10;-1
+0;;11;0;11;0;0;0;11;-1
+0;;12;0;14;0;0;0;12;-1
+0;;13;0;13;0;0;0;13;-1
+0;;14;0;16;0;0;0;14;-1
+0;;15;0;20;0;0;0;15;-1
+0;;16;0;6;0;0;0;16;-1
+0;;17;0;9;0;0;0;17;-1
+0;;18;0;18;0;0;0;18;-1
+0;;19;0;19;0;0;0;19;-1
+0;;20;0;15;0;0;0;20;-1
+0;p-s;12;15;12;15;0;4;12;15
+1;swap;1;2;1;2;0;2;1;2
+2;swap;4;3;4;3;0;2;4;3
+3;p-s;1;4;2;3;2;4;22;23
+4;p-s;16;17;16;17;0;4;16;17
+5;swap;8;13;8;13;0;2;8;13
+6;p-s;8;16;13;16;4;3;26;25
+7;swap;14;18;14;18;0;2;14;18
+8;p-s;14;19;18;19;2;4;28;19
+9;mix;19;-1;19;19;0;1;29;29
+10;swap;9;13;9;8;2;2;9;26
+11;swap;9;5;8;5;4;2;31;5
+12;swap;9;0;5;0;6;2;32;0
+13;swap;1;2;2;1;6;2;24;22
+14;p-s;1;9;1;0;8;3;34;33
+15;swap;7;3;7;4;2;2;7;23
+16;p-s;4;7;3;4;6;3;24;36
+17;swap;12;11;12;11;4;2;21;11
+18;swap;5;13;8;9;6;2;32;31
+19;swap;12;10;11;10;6;2;38;10
+20;p-s;5;12;9;10;8;3;39;40
+21;swap;15;20;15;20;4;2;21;20
+22;swap;16;17;16;17;7;2;27;25
+23;swap;15;19;20;19;6;2;42;29
+24;mix;19;-1;20;20;8;1;44;44
+25;swap;16;14;17;18;9;2;43;29
+26;p-s;15;16;19;18;11;4;44;46
+27;swap;8;13;13;8;8;2;27;39
+28;swap;8;0;8;5;10;2;48;33
+29;p-s;8;9;5;0;12;3;49;35
+30;swap;7;3;4;7;9;2;37;36
+31;swap;10;11;11;12;8;2;40;38
+32;p-s;7;10;7;12;11;4;51;52
+33;mix;7;-1;7;7;15;1;53;53
+34;swap;13;17;13;16;10;2;48;43
+35;p-s;13;14;16;17;12;4;55;46
+36;mix;14;-1;17;17;16;1;56;56
+37;p-s;12;18;10;14;11;3;41;28
+38;mix;18;-1;14;14;14;1;58;58
+39;swap;1;2;1;2;11;2;35;34
+40;swap;1;6;2;6;13;2;60;6
+41;p-s;1;12;6;10;15;3;61;58
+42;mix;12;-1;10;10;0;1;62;62
+43;swap;15;19;19;20;15;2;47;45
+44;p-s;15;20;20;15;17;3;64;42
+45;mix;15;-1;20;20;20;1;65;65
+46;mix;20;-1;15;15;0;1;65;65
+47;swap;16;18;18;14;15;2;47;59
+48;swap;10;11;12;11;15;2;53;52
+49;swap;16;12;14;10;18;2;68;62
+50;mix;12;-1;14;14;20;1;70;70
+51;p-s;10;16;11;10;20;3;69;70
+52;mix;10;-1;11;11;0;1;72;72
+53;p-s;1;16;6;10;23;3;62;72
+54;mix;1;-1;6;6;26;1;74;74
+55;mix;16;-1;10;10;26;1;74;74
+56;swap;5;0;9;8;12;2;41;49
+57;swap;5;17;8;13;14;2;77;55
+58;swap;8;17;5;8;16;2;50;78
+59;swap;5;13;13;16;16;2;78;56
+60;swap;8;13;8;13;18;2;79;80
+61;p-s;5;8;16;13;20;3;80;81
+62;mix;5;-1;16;16;23;1;82;82
+63;mix;8;-1;13;13;23;1;82;82
+64;swap;2;9;1;0;15;2;60;50
+65;p-s;2;17;0;5;18;3;85;79
+66;mix;2;-1;0;0;0;1;86;86
+67;mix;17;-1;5;5;0;1;86;86
+68;swap;4;6;3;2;15;2;37;61
+69;swap;4;9;2;1;17;2;89;85
+70;swap;13;17;8;5;21;2;81;86
+71;mix;17;-1;8;8;0;1;91;91
+72;swap;4;2;1;0;21;2;90;86
+73;mix;2;-1;1;1;23;1;93;93
+74;p-s;4;13;0;5;23;3;93;91
+75;mix;4;-1;0;0;26;1;95;95
+76;mix;13;-1;5;5;26;1;95;95
+77;swap;6;3;3;4;17;2;89;51
+78;swap;9;3;2;3;19;2;90;98
+79;p-s;6;9;4;3;21;3;98;99
+80;mix;6;-1;4;4;24;1;100;100
+81;mix;9;-1;3;3;24;1;100;100
+82;p-s;1;16;6;10;27;3;75;76
+83;swap;17;0;8;9;23;2;91;77
+84;mix;17;-1;9;9;25;1;104;104
+85;p-s;16;17;10;9;30;3;103;105
+86;p-s;5;8;16;13;24;3;83;84
+87;p-s;4;13;0;5;27;3;96;97
+88;swap;19;18;19;18;17;2;64;68
+89;p-s;14;19;17;18;19;4;57;109
+90;mix;19;-1;18;18;0;1;110;110
+91;p-s;6;9;4;3;25;3;101;102
+92;mix;6;-1;4;4;28;1;112;112
+93;swap;7;11;7;12;17;2;54;69
+94;swap;7;20;12;15;20;2;114;65
+95;mix;20;-1;12;12;22;1;115;115
+96;swap;10;20;11;12;23;2;72;116
+97;mix;10;-1;12;12;25;1;117;117
+98;p-s;7;10;15;12;26;4;115;118
+99;swap;12;19;14;18;23;2;71;110
+100;mix;19;-1;14;14;25;1;120;120
+101;swap;12;18;18;19;25;2;120;109
+102;p-s;12;15;19;20;27;3;122;66
+103;swap;20;10;11;12;30;2;117;119
+104;swap;20;7;12;15;32;2;124;119
+105;p-s;15;20;20;15;34;3;123;125
+106;mix;20;-1;15;15;0;1;126;126
+107;p-s;10;16;11;10;33;3;124;106
+108;mix;10;-1;11;11;36;1;128;128
+109;swap;18;19;18;14;27;2;122;121
+110;swap;12;19;19;18;30;2;123;130
+111;p-s;12;18;18;14;32;4;131;130
+112;mix;18;-1;14;14;36;1;132;132
+113;swap;9;3;3;2;28;2;112;99
+114;p-s;1;9;6;2;30;4;103;134
+115;swap;8;0;13;8;27;2;107;104
+116;swap;8;17;8;9;33;2;136;106
+117;p-s;8;16;9;10;36;3;137;128
+118;swap;4;2;0;1;30;2;108;94
+119;swap;4;9;1;2;34;2;139;135
+120;p-s;1;4;6;2;36;4;135;140
+121;swap;13;17;5;8;35;2;108;137
+122;swap;13;0;8;13;37;2;142;136
+123;swap;14;5;17;16;27;2;110;107
+124;p-s;13;14;13;16;39;3;143;144
+125;mix;13;-1;13;13;42;1;145;145
+126;mix;14;-1;16;16;42;1;145;145
+127;p-s;2;17;0;5;37;3;139;142
+128;mix;2;-1;0;0;0;1;148;148
+129;mix;17;-1;5;5;40;1;148;148
+130;swap;7;11;12;7;34;2;125;114
+131;swap;4;3;2;3;40;2;141;134
+132;swap;7;6;7;4;36;2;151;113
+133;p-s;4;7;3;4;42;3;152;153
+134;mix;4;-1;3;3;45;1;154;154
+135;mix;7;-1;4;4;45;1;154;154
+136;swap;15;20;20;15;37;2;126;126
+137;mix;20;-1;20;20;39;1;157;157
+138;swap;16;10;10;11;39;2;138;129
+139;swap;15;11;15;12;39;2;157;151
+140;p-s;15;16;12;11;41;4;160;159
+141;mix;15;-1;12;12;45;1;161;161
+142;mix;16;-1;11;11;45;1;161;161
+143;swap;8;0;9;8;39;2;138;143
+144;swap;9;2;1;0;40;2;140;148
+145;mix;2;-1;1;1;42;1;165;165
+146;swap;8;17;8;5;41;2;164;150
+147;p-s;8;9;5;0;43;3;167;165
+148;mix;8;-1;5;5;46;1;168;168
+149;mix;9;-1;0;0;46;1;168;168
+150;p-s;5;12;17;18;36;4;144;132
+151;mix;5;-1;17;17;40;1;171;171
+152;swap;1;10;6;10;41;2;141;159
+153;swap;12;18;18;14;40;2;171;133
+154;p-s;1;12;10;14;43;3;173;174
+155;mix;1;-1;10;10;46;1;175;175
+156;mix;12;-1;14;14;46;1;175;175
+

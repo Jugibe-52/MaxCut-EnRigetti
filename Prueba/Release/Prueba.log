@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (Release\) contiene archivos compartidos de otro proyecto (Prueba.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  QuanticCompilation.cpp
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\clases\ListaQBits.h(177,9): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(399,42): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(829,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(257,18): warning C4101: 'num': variable local sin referencia
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(914,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(1140,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(1199,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(1310,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(1309,12): warning C4101: 'j': variable local sin referencia
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(1567,49): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Prueba\QuanticCompilation.cpp(2112,20): warning C4018: '<': no coinciden signed/unsigned
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 543 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Prueba.vcxproj -> C:\Users\PILAR\Documents\TFM_aepia\CodigoFinal-QuanticCompilation\Prueba - resguardo\Release\MaxCut-EnRigetti.exe
